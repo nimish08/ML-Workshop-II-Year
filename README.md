@@ -59,3 +59,5 @@ PCE17CS090    KUMAR KAUTUK      https://github.com/kautuk98/ml-workshop-tutes
 PCE17CS104     MUDIT CHOPRA       https://github.com/muditchopra/my-ml-workshop
 
 PCE17CS060    Harsh Bhardwaj        https://github.com/harshbhardwaj5/ml-workshop
+
+PCE17CS079    Kapil chauhan       https://github.com/kapil162000/ML-workshop
