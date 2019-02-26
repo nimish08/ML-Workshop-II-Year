@@ -63,3 +63,5 @@ PCE17CS060    Harsh Bhardwaj        https://github.com/harshbhardwaj5/ml-worksho
 PCE17CS079    Kapil chauhan       https://github.com/kapil162000/ML-workshop
 
 PCE17CS099    Mohit Arora         https://github.com/variable5707/mlworkshop
+
+PCE17CS106    Nimish Mittal       https://github.com/nimish08/ML-workshop
